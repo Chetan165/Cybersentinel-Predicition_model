@@ -1,0 +1,82 @@
+{
+    "url": "https://www.google.co.in/",
+    "domain": "www.google.co.in",
+    "timestamp": "2025-03-15 13:16:12",
+    "AnchorURL": {
+        "anchors_count": 27,
+        "external_links": 6,
+        "relative_links": 6
+    },
+    "LinksInScriptTags": {
+        "script_tags_count": 8,
+        "external_scripts": 0
+    },
+    "ServerFormHandler": {
+        "forms_count": 1,
+        "external_form_handlers": 0
+    },
+    "InfoEmail": {
+        "emails": []
+    },
+    "AbnormalURL": {
+        "is_abnormal": true,
+        "abnormal_features": [
+            "excessive_subdomains",
+            "uncommon_tld"
+        ]
+    },
+    "WebsiteForwarding": {
+        "has_redirection": false,
+        "initial_url": "https://www.google.co.in/",
+        "final_url": null
+    },
+    "StatusBarCust": {
+        "status_bar_manipulation": false
+    },
+    "DisableRightClick": {
+        "right_click_disabled": false
+    },
+    "UsingPopupWindow": {
+        "uses_popups": false
+    },
+    "IframeRedirection": {
+        "iframe_count": 0,
+        "hidden_iframes": 0
+    },
+    "AgeofDomain": {
+        "domain_info_available": true,
+        "creation_date": "2003-06-23",
+        "expiration_date": "2025-06-23",
+        "age_days": 7935,
+        "age_years": 21.72
+    },
+    "DNSRecording": {
+        "dns_available": true,
+        "a_records": [
+            "142.250.192.131"
+        ],
+        "mx_records": [],
+        "ns_records": []
+    },
+    "WebsiteTraffic": {
+        "note": "Traffic information requires external APIs or services",
+        "estimated_monthly_visits": "unknown"
+    },
+    "PageRank": {
+        "note": "PageRank is no longer publicly available"
+    },
+    "GoogleIndex": {
+        "note": "Google index information requires search API",
+        "estimated_indexed_pages": "unknown"
+    },
+    "LinksPointingToPage": {
+        "note": "Backlink information requires external APIs or services",
+        "estimated_backlinks": "unknown"
+    },
+    "StatsReport": {
+        "page_size_kb": 18.61,
+        "element_count": 92,
+        "status_code": 200,
+        "content_type": "text/html; charset=ISO-8859-1"
+    }
+}

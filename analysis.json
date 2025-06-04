@@ -1,0 +1,140 @@
+{
+    "url": "https://forms.fillout.com/t/fZG6yy2SxRus",
+    "domain": "forms.fillout.com",
+    "timestamp": "2025-03-15 18:56:06",
+    "AnchorURL": {
+        "anchors_count": 0,
+        "external_links": 0,
+        "relative_links": 0
+    },
+    "LinksInScriptTags": {
+        "script_tags_count": 26,
+        "external_scripts": 0
+    },
+    "ServerFormHandler": {
+        "forms_count": 0,
+        "external_form_handlers": 0
+    },
+    "InfoEmail": {
+        "emails": []
+    },
+    "AbnormalURL": {
+        "is_abnormal": false,
+        "abnormal_features": []
+    },
+    "WebsiteForwarding": {
+        "has_redirection": false,
+        "initial_url": "https://forms.fillout.com/t/fZG6yy2SxRus",
+        "final_url": null
+    },
+    "StatusBarCust": {
+        "status_bar_manipulation": false
+    },
+    "DisableRightClick": {
+        "right_click_disabled": false
+    },
+    "UsingPopupWindow": {
+        "uses_popups": false
+    },
+    "IframeRedirection": {
+        "iframe_count": 0,
+        "hidden_iframes": 0
+    },
+    "AgeofDomain": {
+        "domain_info_available": true,
+        "creation_date": "2001-05-31",
+        "expiration_date": "2026-05-31",
+        "age_days": 8689,
+        "age_years": 23.79
+    },
+    "DNSRecording": {
+        "dns_available": true,
+        "a_records": [
+            "104.26.1.150",
+            "172.67.69.9",
+            "104.26.0.150"
+        ],
+        "mx_records": [],
+        "ns_records": []
+    },
+    "WebsiteTraffic": {
+        "note": "Traffic information requires external APIs or services",
+        "estimated_monthly_visits": "unknown"
+    },
+    "PageRank": {
+        "note": "PageRank is no longer publicly available"
+    },
+    "GoogleIndex": {
+        "note": "Google index information requires search API",
+        "estimated_indexed_pages": "unknown"
+    },
+    "LinksPointingToPage": {
+        "note": "Backlink information requires external APIs or services",
+        "estimated_backlinks": "unknown"
+    },
+    "StatsReport": {
+        "page_size_kb": 13.4,
+        "element_count": 97,
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8"
+    },
+    "UsingIP": {
+        "Using_ip": false
+    },
+    "LongURL": {
+        "url_length": 40,
+        "is_long_url": false,
+        "is_short_url": false
+    },
+    "Symbol@": {
+        "has_@_symbol": false,
+        "at_position": null,
+        "before_at": null,
+        "after_at": null
+    },
+    "Redirecting//": {
+        "has_double_slash_in_path": false,
+        "redirect_count": 0,
+        "has_excessive_redirects": false,
+        "redirect_chain": [],
+        "final_url": "https://forms.fillout.com/t/fZG6yy2SxRus"
+    },
+    "PrefixSuffix-": {
+        "hyphen_count": 0,
+        "has_suspicious_prefix": false,
+        "suspicious_prefixes": [],
+        "has_suspicious_suffix": false,
+        "suspicious_suffixes": []
+    },
+    "SubDomains": {
+        "has_subdomains": true,
+        "subdomain_count": 1,
+        "subdomains": [
+            "forms"
+        ],
+        "subdomain_string": "forms",
+        "excessive_subdomains": false
+    },
+    "Favicon": {
+        "favicon_found": true,
+        "favicon_url": "https://build.fillout.com/favicon.ico",
+        "favicon_domain": "build.fillout.com",
+        "favicon_domain_mismatch": true
+    },
+    "HTTPS": {
+        "is_https": true,
+        "certificate": {
+            "common_name": "forms.fillout.com",
+            "organization": null,
+            "issuer": "WE1",
+            "valid_from": "Feb  3 17:46:22 2025 GMT",
+            "valid_until": "May  4 18:46:17 2025 GMT",
+            "alt_names": [
+                [
+                    "DNS",
+                    "forms.fillout.com"
+                ]
+            ]
+        }
+    }
+}
